@@ -4,3 +4,9 @@
 
 ## 설치
 npm create vite@latest
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+npm install react-scroll
+npm install prettier
+npm install clsx
