@@ -10,3 +10,4 @@ npx tailwindcss init -p
 npm install react-scroll
 npm install prettier
 npm install clsx
+npm i react-countup
