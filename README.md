@@ -11,3 +11,4 @@ npm install react-scroll
 npm install prettier
 npm install clsx
 npm i react-countup
+npm i react-slidedown --legacy-peer-deps
